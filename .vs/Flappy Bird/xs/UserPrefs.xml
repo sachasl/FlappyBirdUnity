@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{071E10C7-98A1-E18C-E3D1-1B0603687006}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/LogicScript.cs">
+    <Files>
+      <File FileName="Assets/BirdScript.cs" Line="6" Column="2" />
+      <File FileName="Assets/PipeMoveScript.cs" Line="26" Column="10" />
+      <File FileName="Assets/PipeSpawnScript.cs" Line="39" Column="126" />
+      <File FileName="Assets/LogicScript.cs" Line="25" Column="27" />
+      <File FileName="Assets/PipeMiddleScript.cs" Line="7" Column="30" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Flappy Bird" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="LogicScript.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Unity" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="34824b05-8303-4e43-b077-fdb2e5a259a5" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
